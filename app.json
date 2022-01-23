@@ -4,6 +4,7 @@
   "expo": {
     "name": "myFinances",
     "slug": "myFinances",
+    "scheme": "myFinances",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
